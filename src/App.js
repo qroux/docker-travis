@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          changed again!
+          Changed from the feature branch! Deployed to aws, through Travis, after github pull request.
         </a>
       </header>
     </div>
